@@ -1,6 +1,6 @@
 // Harry Potter Memory Game Characters
 const characters = [
-    'harry', 'hermione', 'ron', 'dumbledore', 
+    'harry', 'hermione', 'Ron', 'dumbledore', 
     'snape', 'tomriddle', 'ginny', 'cedric', 
     'luna', 'draco', 'mcgonagall', 'grindelwald'
 ];
